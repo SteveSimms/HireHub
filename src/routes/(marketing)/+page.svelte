@@ -204,7 +204,7 @@
       <div
         class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent mb-4 md:mb-8"
       >
-        SaaS Starter Demo
+        Hire Hub
       </div>
 
       <div
@@ -214,17 +214,22 @@
         The
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >open source</span
+          >fast</span
         >,
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >fast</span
-        >, and
+          >productive</span
+        >, way
+        <span>to sell</span>
         <span
           class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >free to host</span
         >
-        <span> SaaS template</span>
+          time blocks</span
+        >
+        <span
+          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
+          >for Freelancers</span
+        >
       </div>
       <div class="mt-6 md:mt-10 text-sm md:text-lg">
         Built with <a
